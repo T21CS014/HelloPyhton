@@ -4,6 +4,7 @@ Created on 2023/10/13
 @author: t21cs014
 '''
 print("Hello, Python world")
+print("この文を変更しました")
 a=10
 b=0.000001
 c='string'
